@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143.646" height="130.452" viewBox="0 0 143.646 130.452">
+  <defs>
+    <filter id="패스_1408" x="0" y="0" width="143.646" height="130.452" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_810" data-name="그룹 810" transform="translate(2123.502 -4673.911)">
+    <g transform="matrix(1, 0, 0, 1, -2123.5, 4673.91)" filter="url(#패스_1408)">
+      <path id="패스_1408-2" data-name="패스 1408" d="M-2017.631,4679.411h-72.1a28.305,28.305,0,0,0-28.276,28.27,28.082,28.082,0,0,0,8.28,19.99l2.5,2.5a8.293,8.293,0,0,1,2.414,5.833v40.718a18.157,18.157,0,0,0,18.142,18.142h65.973a18.157,18.157,0,0,0,18.142-18.142V4736a8.28,8.28,0,0,1,2.422-5.833l2.492-2.5a28.076,28.076,0,0,0,8.28-19.99A28.3,28.3,0,0,0-2017.631,4679.411Z" transform="translate(2123.5 -4673.91)" fill="#e85400"/>
+    </g>
+    <g id="그룹_809" data-name="그룹 809" transform="translate(-2081.778 4701.238)">
+      <g id="그룹_807" data-name="그룹 807" transform="translate(3.058)">
+        <path id="패스_1409" data-name="패스 1409" d="M-2057.141,4697.2h3.518v-3.519h10.935v3.519h3.516v61.7h-3.516v3.518h-10.935v-3.518h-3.518v-23.4h-17.281v23.4h-3.976v3.518h-10.4v-3.518h-3.517v-61.7h3.517v-3.519h10.4v3.519h3.976v22.021h17.281Z" transform="translate(2092.313 -4693.685)" fill="#fff"/>
+      </g>
+      <g id="그룹_808" data-name="그룹 808" transform="translate(0 3.058)">
+        <path id="패스_1410" data-name="패스 1410" d="M-2059.141,4699.2h3.517v-3.518h10.935v3.518h3.516v61.705h-3.516v3.518h-10.935v-3.518h-3.517v-23.4h-17.281v23.4h-3.976v3.518h-10.4v-3.518h-3.517V4699.2h3.517v-3.518h10.4v3.518h3.976v22.021h17.281Z" transform="translate(2094.313 -4695.686)" fill="#040506"/>
+      </g>
+    </g>
+  </g>
+</svg>
