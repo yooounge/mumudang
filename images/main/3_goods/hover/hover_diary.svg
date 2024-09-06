@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.077" height="172.7" viewBox="0 0 460.077 172.7">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ee7514" stop-opacity="0.459"/>
+      <stop offset="1" stop-color="#fbf8f4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="그룹_276" data-name="그룹 276" transform="translate(-256.924 -3905.436)">
+    <ellipse id="타원_94" data-name="타원 94" cx="61.365" cy="102.02" rx="61.365" ry="102.02" transform="matrix(0.017, 1, -1, 0.017, 460.932, 3951.864)" fill="url(#radial-gradient)"/>
+    <ellipse id="타원_97" data-name="타원 97" cx="52.273" cy="86.904" rx="52.273" ry="86.904" transform="matrix(0.017, 1, -1, 0.017, 715.176, 3905.436)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
